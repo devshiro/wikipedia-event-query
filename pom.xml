@@ -6,6 +6,10 @@
 	<artifactId>wikipedia-event-query</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
+	<inceptionYear>2017</inceptionYear>
+	<organization>
+		<name>Faculty of Informatics, University of Debrecen</name>
+	</organization>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
